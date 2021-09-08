@@ -1,0 +1,22 @@
+#navbarTogglerDemo01{
+    background-color: mediumblue !important;
+}
+#linha-horizontal {
+    width: 300px;
+    border: 1px solid mediumblue;
+}
+#linha-horizontal01 {
+    width: 100%;
+    border: 1px solid slategray;
+}
+#linha-horizontal02 {
+    width: 100%;
+    border: 1px solid slategray;
+}
+#linha-horizontal03 {
+    width: 100%;
+    border: 1px solid slategray;
+}
+.show_total {
+    overflow: auto;
+}

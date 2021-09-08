@@ -1,2 +1,2 @@
 # Blog
-crud de um blog em python html e css
+crud de um blog em php, html e css
