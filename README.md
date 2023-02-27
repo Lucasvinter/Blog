@@ -1,2 +1,2 @@
 # Blog
-crud de um blog em php, html e css
+projeto de um blog inacabado projeto realizado em php.
